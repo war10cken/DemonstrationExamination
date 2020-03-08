@@ -24,6 +24,7 @@
         <e p="Resourse" t="Include">
           <e p="icons8-войти-48.png" t="Include" />
         </e>
+        <e p="Te.cs" t="Include" />
       </e>
       <e p="DemonstrationExamination.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
